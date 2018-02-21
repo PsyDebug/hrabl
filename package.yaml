@@ -28,7 +28,7 @@ library:
   source-dirs: src
 
 executables:
-  ParsTable-exe:
+  hrabl-exe:
     main:                Main.hs
     source-dirs:         app
     ghc-options:
